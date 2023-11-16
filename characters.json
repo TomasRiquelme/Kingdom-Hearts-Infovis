@@ -1,0 +1,607 @@
+{
+"personajes" : [
+{"name" : "Sora", 
+ "relations" : 26,
+ "foto" : "https://i.pinimg.com/originals/a2/ad/7b/a2ad7be2590637e074ca612ea089b863.jpg" 
+}, 
+
+{"name" : "Riku", 
+ "relations" : 16,
+ "foto" : "https://i.pinimg.com/originals/bf/ce/c3/bfcec3c42b54c9c52a8401e3df600f19.jpg"
+},
+{"name" : "Kairi", 
+ "relations" : 9,
+ "foto" : "https://64.media.tumblr.com/c6c68734d93807fc48a828455b49f997/cca323b98238597a-4b/s1280x1920/e7be0eba2053eb924be9259eda59e79fb33046f6.jpg"
+},
+{"name" : "Mickey", 
+ "relations" : 11,
+ "foto" : "https://i.pinimg.com/originals/c1/8b/c8/c18bc81d52b28fd1de512fb030c2f74a.png" 
+}, 
+{"name" : "Donald", 
+ "relations" : 3,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Ok5BfCtc5ji-x62LWrJbb56MTVXawSqOmw&usqp=CAU" 
+}, 
+{"name" : "Goofy", 
+ "relations" : 3,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtiDXkJ55KvNBnm_SX1bzBb_jGhVlE_aAzaA&usqp=CAU" 
+}
+, 
+{"name" : "Aqua", 
+ "relations" : 8,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs0uwNC2hKwS0je8uFUDeavMhzv3QOW5pd4Q&usqp=CAU" 
+}
+, 
+{"name" : "Terra", 
+ "relations" : 6,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxZ164vA_XYCoDSJSSko639U_9BTmP8VTuTCxVfOka8tq6IRBX2cVGnPQ0nQtDbWbxAo&usqp=CAU" 
+}
+, 
+{"name" : "Ventus", 
+ "relations" : 7,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbjp0QSfzLjd9iKCSnzzmM64aZcv_-84CoXDzhVvud8rVhe6qTeF9VUL9sn206lCSaHHM&usqp=CAU" 
+}
+, 
+{"name" : "Ansem (Heartless)", 
+ "relations" : 8,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG6OI-Dgs1JLBW5FJ6WzrqIgBkokmkBFRdsFtdHieT8t_TZhb7M9IZwwbUgj-CpO5-qyo&usqp=CAU" 
+}
+, 
+{"name" : "Xemnas", 
+ "relations" : 18,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-nTi9VsItXF8JYYu3tC0V15Dzlfv2bB28OejEmlHJ_wAHn0ht69_zMiVApesdvB13eU8&usqp=CAU" 
+}
+, 
+{"name" : "Marluxia", 
+ "relations" : 6,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVA-Hl75iQ6bquHqV70aJ8nE55VrMsubuwtk3MhmqPsqu2BANiXv77qJWqRd9xeWkI2g&usqp=CAU" 
+}
+, 
+{"name" : "Larxene", 
+ "relations" : 6,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZg1ZHlpGA2yNEX7c4UYxmhEzUcFtDzTGKRA&usqp=CAU" 
+}
+, 
+{"name" : "Vexen", 
+ "relations" : 9,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Mp-h1B80bn72ZeHfD4-51OGFgiJ6Zaz86gAAz8lvkh1AGj3ITp2O4zor9USOYdQLOFY&usqp=CAU" 
+}
+, 
+{"name" : "Axel", 
+ "relations" : 9,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3G7ptbmnHIiDz_7MTe4Z8XtWZgbT4-lBkbA&usqp=CAU" 
+}
+, 
+{"name" : "Roxas", 
+ "relations" : 8,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBM3AGskQ004DEsaKH1YWxfyRaPCErGonOVg&usqp=CAU" 
+}
+, 
+{"name" : "Xion", 
+ "relations" : 6,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_vFhs501YKrt8iutYGAf_rjucuITgXBWfQ&usqp=CAU" 
+}
+, 
+{"name" : "Zexion", 
+ "relations" : 5,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDik4amqb2YSvc_UAqqPZs_AGOnewFcP5RpQPeequ5zOdjR3UJ_jgIVK5MaU-akXMObsg&usqp=CAU" 
+}
+, 
+{"name" : "Xaldin", 
+ "relations" : 4,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIKrGJ5NuJV3aJbTlF0Tvlh-U-6Uir8rJj2Q&usqp=CAU" 
+}
+, 
+{"name" : "Saix", 
+ "relations" : 4,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkq9vhCt4uFScMF2OAtiJpRDomkqNihnzdRpRrPu5ck_VXFlBK926MTkNKiCI7kyy902k&usqp=CAU" 
+}
+, 
+{"name" : "Namine", 
+ "relations" : 7,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0uqYvcjG4ScXIMKV-fgxAjl6DhhNGxwTPw&usqp=CAU" 
+}
+, 
+{"name" : "Luxord", 
+ "relations" : 3,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVPzdFfF3lpY0uIrOJG0_A80Rk5Vrjh1M1KEtATLUNeNsqEQS3MP7PamioRw6D8TPajs&usqp=CAU" 
+}
+, 
+{"name" : "Xigbar", 
+ "relations" : 6,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFt7X04GQIVfuoPCQBFsW2gQFgBmSkbQpDIYigWR_Kg-IrFsYrTIMT4S-H7s0PX2O868&usqp=CAU" 
+}
+, 
+{"name" : "Xehanort", 
+ "relations" : 10,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0fj51V5Sjtb9nBGraUfrEahbtLdL_iR7pYc-Z4PDp4I6sin3rJovolY3KXTSjusaxXE&usqp=CAU" 
+}
+, 
+{"name" : "Young Xehanort", 
+ "relations" : 5,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8rlM6d8ZLUAWlQoTL4caobv6A2WFANXM1g&usqp=CAU" 
+}
+, 
+{"name" : "Vanitas", 
+ "relations" : 5,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-lfpOP3JRxgJglJWCAjr6t6_I9yUtS8ElQ&usqp=CAU" 
+}
+, 
+{"name" : "Demyx", 
+ "relations" : 3,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMtHwzM_ezOj6XN6yo5lJckxOZbfVj4Ocu2mBiV-NZl9sTlWp4eC5kvz3JzFZsGrsIr8M&usqp=CAU" 
+}
+, 
+{"name" : "Lexaus", 
+ "relations" : 3,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbG1dZsC78c_6gTLwsgFAVqAldPfQXgE2Aczg4JGRpcVEX8tSgFb8NOivBsTMT0H5ldS0&usqp=CAU" 
+}
+, 
+{"name" : "Ansem the Wise", 
+ "relations" : 7,
+ "foto" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjQRu5WkcK4lZfr5tiNlwu3-1uDOwP0cF6fA&usqp=CAU" 
+}
+
+],
+"enlaces": [
+    {"source" : "Sora",
+    "target" : "Kairi",
+    "strength" : "strong"
+},
+{"source" : "Sora",
+"target" : "Riku",
+"strength" : "strong"
+},
+{"source" : "Sora",
+"target" : "Mickey",
+"strength" : "medium"
+},
+{"source" : "Sora",
+"target" : "Donald",
+"strength" : "strong"
+},
+{"source" : "Sora",
+"target" : "Goofy",
+"strength" : "strong"
+},
+{"source" : "Sora",
+"target" : "Aqua",
+"strength" : "medium"
+},
+{"source" : "Sora",
+"target" : "Ventus",
+"strength" : "strong"
+},
+{"source" : "Sora",
+"target" : "Terra",
+"strength" : "weak"
+},
+{"source" : "Sora",
+"target" : "Ansem (Heartless)",
+"strength" : "medium"
+},
+{"source" : "Sora",
+"target" : "Xemnas",
+"strength" : "strong"
+},
+{"source" : "Sora",
+"target" : "Marluxia",
+"strength" : "medium"
+},
+{"source" : "Sora",
+"target" : "Larxene",
+"strength" : "medium"
+},
+{"source" : "Sora",
+"target" : "Vexen",
+"strength" : "weak"
+},
+{"source" : "Sora",
+"target" : "Axel",
+"strength" : "medium"
+},
+{"source" : "Sora",
+"target" : "Roxas",
+"strength" : "strong"
+},
+{"source" : "Sora",
+"target" : "Xion",
+"strength" : "medium"
+},
+{"source" : "Sora",
+"target" : "Zexion",
+"strength" : "medium"
+},
+{"source" : "Sora",
+"target" : "Xaldin",
+"strength" : "weak"
+},
+{"source" : "Sora",
+"target" : "Saix",
+"strength" : "strong"
+},
+{"source" : "Sora",
+"target" : "Namine",
+"strength" : "strong"
+},
+{"source" : "Sora",
+"target" : "Luxord",
+"strength" : "weak"
+},
+{"source" : "Sora",
+"target" : "Xigbar",
+"strength" : "medium"
+},
+{"source" : "Sora",
+"target" : "Xehanort",
+"strength" : "strong"
+},
+{"source" : "Sora",
+"target" : "Young Xehanort",
+"strength" : "weak"
+},
+{"source" : "Sora",
+"target" : "Vanitas",
+"strength" : "weak"
+},
+{"source" : "Sora",
+"target" : "Demyx",
+"strength" : "weak"
+},
+{"source" : "Riku",
+"target" : "Kairi",
+"strength" : "medium"
+},
+{"source" : "Riku",
+"target" : "Mickey",
+"strength" : "strong"
+},
+{"source" : "Riku",
+"target" : "Aqua",
+"strength" : "weak"
+},
+{"source" : "Riku",
+"target" : "Terra",
+"strength" : "medium"
+},
+{"source" : "Riku",
+"target" : "Ansem (Heartless)",
+"strength" : "strong"
+},
+{"source" : "Riku",
+"target" : "Xemnas",
+"strength" : "weak"
+},
+{"source" : "Riku",
+"target" : "Lexaus",
+"strength" : "weak"
+},
+{"source" : "Riku",
+"target" : "Zexion",
+"strength" : "weak"
+},
+{"source" : "Riku",
+"target" : "Xion",
+"strength" : "weak"
+},
+{"source" : "Riku",
+"target" : "Ansem the Wise",
+"strength" : "strong"
+},
+{"source" : "Riku",
+"target" : "Namine",
+"strength" : "strong"
+},
+{"source" : "Riku",
+"target" : "Young Xehanort",
+"strength" : "medium"
+},
+{"source" : "Riku",
+"target" : "Roxas",
+"strength" : "medium"
+},
+{"source" : "Riku",
+"target" : "Vexen",
+"strength" : "weak"
+},
+{"source" : "Kairi",
+"target" : "Namine",
+"strength" : "strong"
+},
+{"source" : "Kairi",
+"target" : "Axel",
+"strength" : "medium"
+},
+{"source" : "Kairi",
+"target" : "Ansem (Heartless)",
+"strength" : "weak"
+},
+{"source" : "Kairi",
+"target" : "Xemnas",
+"strength" : "weak"
+},
+{"source" : "Kairi",
+"target" : "Saix",
+"strength" : "weak"
+},
+{"source" : "Kairi",
+"target" : "Xehanort",
+"strength" : "weak"
+},
+{"source" : "Mickey",
+"target" : "Ansem the Wise",
+"strength" : "strong"
+},
+{"source" : "Mickey",
+"target" : "Aqua",
+"strength" : "strong"
+},
+{"source" : "Mickey",
+"target" : "Terra",
+"strength" : "medium"
+},
+{"source" : "Mickey",
+"target" : "Ventus",
+"strength" : "medium"
+},
+{"source" : "Mickey",
+"target" : "Xehanort",
+"strength" : "strong"
+},
+{"source" : "Mickey",
+"target" : "Xemnas",
+"strength" : "medium"
+},
+{"source" : "Mickey",
+"target" : "Goofy",
+"strength" : "strong"
+},
+{"source" : "Mickey",
+"target" : "Donald",
+"strength" : "strong"
+},
+{"source" : "Mickey",
+"target" : "Ansem (Heartless)",
+"strength" : "weak"
+},
+{"source" : "Mickey",
+"target" : "Vanitas",
+"strength" : "weak"
+},
+{"source" : "Goofy",
+"target" : "Donald",
+"strength" : "strong"
+},
+{"source" : "Donald",
+"target" : "Goofy",
+"strength" : "strong"
+},
+{"source" : "Aqua",
+"target" : "Ventus",
+"strength" : "strong"
+},
+{"source" : "Aqua",
+"target" : "Terra",
+"strength" : "strong"
+},
+{"source" : "Aqua",
+"target" : "Xehanort",
+"strength" : "strong"
+},
+{"source" : "Aqua",
+"target" : "Vanitas",
+"strength" : "strong"
+},
+{"source" : "Aqua",
+"target" : "Xigbar",
+"strength" : "weak"
+},
+{"source" : "Terra",
+"target" : "Ventus",
+"strength" : "strong"
+},
+{"source" : "Terra",
+"target" : "Xehanort",
+"strength" : "strong"
+},
+{"source" : "Ventus",
+"target" : "Xehanort",
+"strength" : "strong"
+},
+{"source" : "Ventus",
+"target" : "Vanitas",
+"strength" : "strong"
+},
+{"source" : "Ventus",
+"target" : "Roxas",
+"strength" : "medium"
+},
+{"source" : "Ansem (Heartless)",
+"target" : "Xemnas",
+"strength" : "strong"
+},
+{"source" : "Ansem (Heartless)",
+"target" : "Xehanort",
+"strength" : "strong"
+},
+{"source" : "Ansem (Heartless)",
+"target" : "Young Xehanort",
+"strength" : "strong"
+},
+{"source" : "Ansem (Heartless)",
+"target" : "Xemnas",
+"strength" : "strong"
+},
+{"source" : "Xemnas",
+"target" : "Zexion",
+"strength" : "medium"
+},
+{"source" : "Xemnas",
+"target" : "Lexaus",
+"strength" : "medium"
+},
+{"source" : "Xemnas",
+"target" : "Marluxia",
+"strength" : "medium"
+},
+{"source" : "Xemnas",
+"target" : "Larxene",
+"strength" : "medium"
+},
+{"source" : "Xemnas",
+"target" : "Vexen",
+"strength" : "medium"
+},
+{"source" : "Xemnas",
+"target" : "Axel",
+"strength" : "medium"
+},
+{"source" : "Xemnas",
+"target" : "Xaldin",
+"strength" : "medium"
+},
+{"source" : "Xemnas",
+"target" : "Young Xehanort",
+"strength" : "strong"
+},
+{"source" : "Xemnas",
+"target" : "Luxord",
+"strength" : "medium"
+},
+{"source" : "Xemnas",
+"target" : "Xigbar",
+"strength" : "medium"
+},
+{"source" : "Xemnas",
+"target" : "Saix",
+"strength" : "medium"
+},
+{"source" : "Xemnas",
+"target" : "Xion",
+"strength" : "medium"
+},
+{"source" : "Xemnas",
+"target" : "Roxas",
+"strength" : "medium"
+},
+{"source" : "Marluxia",
+"target" : "Larxene",
+"strength" : "weak"
+},
+{"source" : "Marluxia",
+"target" : "Axel",
+"strength" : "weak"
+},
+{"source" : "Marluxia",
+"target" : "Namine",
+"strength" : "medium"
+},
+{"source" : "Marluxia",
+"target" : "Vexen",
+"strength" : "weak"
+},
+{"source" : "Larxene",
+"target" : "Namine",
+"strength" : "weak"
+},
+{"source" : "Larxene",
+"target" : "Vexen",
+"strength" : "weak"
+},
+{"source" : "Larxene",
+"target" : "Axel",
+"strength" : "weak"
+},
+{"source" : "Vexen",
+"target" : "Axel",
+"strength" : "medium"
+},
+{"source" : "Vexen",
+"target" : "Roxas",
+"strength" : "medium"
+},
+{"source" : "Vexen",
+"target" : "Namine",
+"strength" : "weak"
+},
+{"source" : "Vexen",
+"target" : "Ansem the Wise",
+"strength" : "strong"
+},
+{"source" : "Vexen",
+"target" : "Zexion",
+"strength" : "strong"
+},
+{"source" : "Vexen",
+"target" : "Xion",
+"strength" : "weak"
+},
+{"source" : "Axel",
+"target" : "Xion",
+"strength" : "strong"
+},
+{"source" : "Axel",
+"target" : "Roxas",
+"strength" : "strong"
+},
+{"source" : "Axel",
+"target" : "Saix",
+"strength" : "strong"
+},
+{"source" : "Axel",
+"target" : "Namine",
+"strength" : "weak"
+},
+{"source" : "Roxas",
+"target" : "Xion",
+"strength" : "strong"
+},
+{"source" : "Roxas",
+"target" : "Namine",
+"strength" : "medium"
+},
+{"source" : "Roxas",
+"target" : "Ansem the Wise",
+"strength" : "weak"
+},
+{"source" : "Xion",
+"target" : "Namine",
+"strength" : "weak"
+},
+{"source" : "Zexion",
+"target" : "Ansem the Wise",
+"strength" : "strong"
+},
+{"source" : "Xaldin",
+"target" : "Lexaus",
+"strength" : "medium"
+},
+{"source" : "Namine",
+"target" : "Ansem the Wise",
+"strength" : "strong"
+},
+{"source" : "Luxord",
+"target" : "Xigbar",
+"strength" : "weak"
+},
+{"source" : "Xigbar",
+"target" : "Xehanort",
+"strength" : "strong"
+},
+{"source" : "Xigbar",
+"target" : "Young Xehanort",
+"strength" : "medium"
+},
+{"source" : "Xehanort",
+"target" : "Young Xehanort",
+"strength" : "strong"
+},
+{"source" : "Xehanort",
+"target" : "Vanitas",
+"strength" : "strong"
+},
+{"source" : "Ansem the Wise",
+"target" : "Xemnas",
+"strength" : "strong"
+}
+]
+}
